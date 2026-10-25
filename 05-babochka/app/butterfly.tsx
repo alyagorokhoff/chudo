@@ -1,0 +1,2 @@
+import {butterflies,butterflyNames} from './messages';
+export default function Butterfly({variant,still=false}:{variant:number,still?:boolean}){const src='/butterflies/'+butterflies[variant]+'.webp';return <span className={'butterfly '+(still?'still':'')} role="img" aria-label={butterflyNames[variant]+' бабочка'}><span className="wing wing-left"><img src={src} alt="" draggable={false}/></span><span className="wing wing-right"><img src={src} alt="" draggable={false}/></span><span className="butterfly-body"><img src={src} alt="" draggable={false}/></span></span>}

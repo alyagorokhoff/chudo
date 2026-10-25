@@ -1,0 +1,16 @@
+{
+  "project_id": "appgprj_6ada44a99ccc8191b266de51758066bc",
+  "title": "Печенька с предсказанием · К СЕБЕ",
+  "slug": "k-sebe-cookie-miracle",
+  "url": "https://k-sebe-cookie-miracle.alya-gorokhoff.chatgpt.site",
+  "version": 11,
+  "version_id": "appgprj_6ada44a99ccc8191b266de51758066bc~appgver_5a496731d88081919b426210f975437f",
+  "commit": "fb741af3917c2a3960c12c72c9f281b286c957b9",
+  "exported_at_utc": "2026-10-25T10:00:51.668106+00:00",
+  "git_tree": "1a73b4fa2d32a108ee6c90831014a927d44e69af",
+  "source_status": "latest_saved_and_successfully_published",
+  "approval_status": "Final explicit approval of this exact version was not verified. Approved requirements and texts are preserved as implemented; this export makes no code changes.",
+  "source_file_count": 140,
+  "database": "Original schema and migrations included; live D1 data is not exported.",
+  "source_integrity": "Every source file is checked against the original Git blob; checksums are in SOURCE_SHA256SUMS.txt."
+}

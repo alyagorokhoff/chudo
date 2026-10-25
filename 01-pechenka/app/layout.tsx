@@ -1,0 +1,3 @@
+import './globals.css';
+export const metadata={title:'Тебе подарили чудо 🤍 | К СЕБЕ',description:'Бесплатный интерактивный подарок. Открой прямо в браузере.',metadataBase:new URL('https://k-sebe-cookie-miracle.alya-gorokhoff.chatgpt.site'),openGraph:{title:'Тебе подарили чудо 🤍 | К СЕБЕ',description:'Бесплатный интерактивный подарок. Открой прямо в браузере.',images:[{url:'/og.png',width:1200,height:630}]},robots:{index:false,follow:false}};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="ru"><head><link rel="preload" href="/fonts/cormorant-garamond-400.ttf" as="font" type="font/ttf" crossOrigin="anonymous"/></head><body>{children}</body></html>}

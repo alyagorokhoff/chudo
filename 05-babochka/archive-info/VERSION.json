@@ -1,0 +1,16 @@
+{
+  "project_id": "appgprj_6adb452d3c208191ad500b212545e3d3",
+  "title": "Бабочка благословения · К СЕБЕ",
+  "slug": "blessing-butterfly",
+  "url": "https://blessing-butterfly.alya-gorokhoff.chatgpt.site",
+  "version": 4,
+  "version_id": "appgprj_6adb452d3c208191ad500b212545e3d3~appgver_8d2240ecf08c81919debeda095372abf",
+  "commit": "711dc37cc2d1b9c7280cc92bf6e9dd96f3a54c32",
+  "exported_at_utc": "2026-10-25T10:00:52.441078+00:00",
+  "git_tree": "3d229fed3ca3e13125e06e586a2906bbaa8a3e75",
+  "source_status": "latest_saved_and_successfully_published",
+  "approval_status": "Final explicit approval of this exact version was not verified. Approved requirements and texts are preserved as implemented; this export makes no code changes.",
+  "source_file_count": 142,
+  "database": "Original schema and migrations included; live D1 data is not exported.",
+  "source_integrity": "Every source file is checked against the original Git blob; checksums are in SOURCE_SHA256SUMS.txt."
+}
